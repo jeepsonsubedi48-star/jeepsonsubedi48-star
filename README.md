@@ -32,24 +32,25 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/jeepsonsubedi48-star">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/jeepsonsubedi48-star">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://instagram.com/jeepson_7">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <a href="https://instagram.com/jeepson_7">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
-<a href="https://facebook.com">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
+  <a href="https://facebook.com/your-facebook-username">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+         width="48" height="48" />
+  </a>
 </p>
 
----
+-----
 
 # 💻 Tech Stack
 
