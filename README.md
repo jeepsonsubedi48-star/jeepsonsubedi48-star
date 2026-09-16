@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    HERO SECTION                            -->
+<!--                         HERO                               -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -22,7 +22,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                      ABOUT ME                              -->
+<!--                       ABOUT ME                             -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -50,7 +50,7 @@ I'm interested in **full-stack development, software engineering, problem solvin
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    QUICK STATS                             -->
+<!--                   DEVELOPER SNAPSHOT                       -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -79,7 +79,7 @@ I'm interested in **full-stack development, software engineering, problem solvin
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                     TECH STACK                             -->
+<!--                       TECH STACK                           -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -113,7 +113,7 @@ I'm interested in **full-stack development, software engineering, problem solvin
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                     WHAT I DO                             -->
+<!--                       WHAT I DO                            -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -161,49 +161,7 @@ I enjoy converting real problems and ideas into working software.
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    FEATURED PROJECTS                       -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 💧 Jarley
-
-**Smart Jar Water Management Platform**
-
-A practical platform designed to manage customers, orders, deliveries, inventory and billing for jar-water businesses.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB`
-
-<br>
-
-### 📚 Library Management System
-
-**Modern Library Administration Platform**
-
-A full-stack system for managing books, members, borrowing, reservations and library administration.
-
-**Tech:** `.NET` `C#` `Database` `HTML` `CSS`
-
-<br>
-
-### 🛍️ Fashion E-Commerce Project
-
-**Interactive Shopping Experience**
-
-A frontend project featuring product browsing, cart functionality and local storage.
-
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                     GITHUB STATS                           -->
+<!--                      GITHUB STATS                          -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -222,22 +180,6 @@ A frontend project featuring product browsing, cart functionality and local stor
 <div align="center">
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeepsonsubedi48-star&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                  CONTRIBUTION GRAPH                        -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeepsonsubedi48-star&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -287,38 +229,22 @@ A frontend project featuring product browsing, cart functionality and local stor
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    CURRENT FOCUS                           -->
+<!--                       2026 GOALS                           -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 # 🎯 2026 Goals
 
-```text
-▸ Master Data Structures & Algorithms
-▸ Improve System Design knowledge
-▸ Build more production-ready applications
-▸ Contribute to Open Source
-▸ Learn advanced backend architecture
-▸ Improve problem-solving skills
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                    DEV QUOTE                               -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-# 💭 Developer Mindset
-
 <div align="center">
 
-> **"Build. Break. Learn. Improve. Repeat."**
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+| 🎯 Goal                             |    📌 Status   |
+| :---------------------------------- | :------------: |
+| Master Data Structures & Algorithms |   🔄 Learning  |
+| Improve System Design               |   🔄 Learning  |
+| Build Production-Ready Applications | 🚀 In Progress |
+| Contribute to Open Source           |   🌱 Growing   |
+| Learn Advanced Backend Architecture |   🔄 Learning  |
+| Improve Problem-Solving Skills      |    🔥 Active   |
 
 </div>
 
@@ -326,7 +252,28 @@ A frontend project featuring product browsing, cart functionality and local stor
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       FOOTER                               -->
+<!--                    DEVELOPER MINDSET                       -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+### **"Build. Break. Learn. Improve. Repeat."
+
+<br>
+
+<img width="1024" height="175" alt="image" src="https://github.com/user-attachments/assets/04269cfb-16cf-49a0-9eda-b0fb54a9047c" />
+
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         FOOTER                             -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
